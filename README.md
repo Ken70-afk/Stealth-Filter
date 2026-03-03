@@ -2,6 +2,9 @@
 
 A premium, privacy-focused, stealth scraper and hard-filtering interface for Facebook Marketplace.
 
+
+<img width="1864" height="923" alt="Screenshot 2026-03-02 192316" src="https://github.com/user-attachments/assets/658b3743-c734-4ba8-a403-412df44ac5f4" />
+
 Built to bypass Facebook's aggressive algorithm and unreliable internal search controls, Stealth Filter provides a sleek, glassmorphic UI to dispatch a headless anonymous browser directly to Facebook Marketplace. It strips out injected "Results from outside your search" and spam, allowing you to run strict, mathematical keyword and price filters client-side.
 
 ## Features
